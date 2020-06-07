@@ -1,7 +1,7 @@
-#Decode Marathon study project
+# Decode Marathon study project
 
 
-##Skills obtained:
+## Skills obtained:
 -HTML
 -CSS
 
